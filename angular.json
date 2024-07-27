@@ -103,10 +103,7 @@
           }
         },
         "deploy": {
-          "builder": "angular-cli-ghpages:deploy",
-          "options": {
-            "baseHref": "/xtrades-app/"
-          }
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
